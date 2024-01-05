@@ -4,6 +4,9 @@ EXPENSE TRACKER SYSTEM
 
 ## Description
  - track and record personal expenses
+-----------------------------------
+## Note 
+This is not yet fully implemented, theres still bugs that need to be fixed
 
 -----------------------------------
 ## INSTALLATION PROCESS
